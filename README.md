@@ -1,0 +1,6 @@
+- ## sobre mim
+-  👋 Oi, me chamo @aluradias
+- 👀 Eu estou interessado em aprender novas líguas 
+- 🌱 Atualmente estou interessado a aprender a usar o JavaScript e o Scratch
+- 👍 Meu e-mail de contato é nanzinhogdias14mail.com
+- 
